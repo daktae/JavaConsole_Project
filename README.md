@@ -58,7 +58,7 @@
 
 ## 🔎 핵심 기능 코드
 - 도서 검색
-```
+``` Java
 package com.twlibrary.service;
 
 import java.util.ArrayList;
